@@ -8,3 +8,6 @@
 
 ### 코마
 [![](https://img.youtube.com/vi/YRjcscSkjmU/0.jpg)](https://www.youtube.com/watch?v=cPrSqWuIZWs&list=PLSPcsedfnZmRiphNfzSbIHZ5zDINmnI0Z "")
+
+## 주의
+이 포크는 개인섭에서 놀기위한 플긴 포크
